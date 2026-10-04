@@ -1,0 +1,11 @@
+{
+  "description": "Manage forensic investigation cases with a secure platform that tracks evidence, examinations, and audit trails, ensuring integrity and efficiency for investigators and experts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "FCMP \u2014 Forensic Case Management Platform"
+}
